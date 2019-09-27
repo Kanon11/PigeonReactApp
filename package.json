@@ -1,0 +1,35 @@
+{
+  "name": "empty-project-template",
+  "main": "node_modules/expo/AppEntry.js",
+  "version": "1.55",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^8.1.0",
+    "expo": "^31.0.0",
+    "expo-font": "^1.1.0",
+    "expo-pixi": "^0.3.1",
+    "native-base": "^2.10.0",
+    "prop-types": "^15.5.10",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native-animatable": "^1.3.1",
+    "react-native-elements": "^0.19.1",
+    "react-native-image-pan-zoom": "^2.1.11",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-pie-chart": "^1.0.13",
+    "react-native-segment-control": "^1.0.5",
+    "react-native-segmented-control-tab": "^3.4.0",
+    "react-native-storage": "^0.2.3",
+    "react-native-vector-icons": "^6.1.0",
+    "react-navigation": "^2.18.2"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  }
+}

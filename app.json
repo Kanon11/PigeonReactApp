@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Pigeon",
+    "description": "This project is really great.",
+    "version": "1.64",
+    "slug": "Pigeon",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.implevista.pigeon"
+    },
+    "android": {
+      "versionCode": 59,
+      "package": "com.implevista.pigeon",
+      "googleServicesFile": "./google-services.json",
+      "permissions": []
+    }
+  }
+}

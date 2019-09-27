@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "749389592125",
+    "firebase_url": "https://pigeon-209db.firebaseio.com",
+    "project_id": "pigeon-209db",
+    "storage_bucket": "pigeon-209db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749389592125:android:10d2e924671dc646",
+        "android_client_info": {
+          "package_name": "com.implevista.pigeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749389592125-eime9s10q25fup5ij8la4a3k6ean701v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFl8xOYqmGX7pGU18Tg6tQVBWs1ZwjkVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
